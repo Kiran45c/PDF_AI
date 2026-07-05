@@ -12,7 +12,7 @@ PDF AI App is a question-answering application that allows users to upload docum
 Clone this repository:
 
 ```bash
-git clone https://github.com/Wickypolineni/PDF_AI
+git clone https://github.com/Kiran45c/PDF_AI
 cd PDF_AI
 ```
 
